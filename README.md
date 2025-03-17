@@ -1,4 +1,3 @@
-# deribit-api
 # Deribit Order Execution System
 
 ## Overview
